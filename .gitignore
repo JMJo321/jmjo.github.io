@@ -1,0 +1,14 @@
+# 1. Files related to Project Management
+# 1.1. System Files
+.DS_Store
+
+# 1.2. App-related Files
+# 1.2.1. Pycharm
+.idea
+# 1.2.2. RStudio
+.Rhistory
+
+
+# 2. Others
+Sample-Website
+
